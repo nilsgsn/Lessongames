@@ -69,7 +69,7 @@ else:
 st.markdown(
     f"""
     <div class='footer'>
-        <img src=schullogo.png' width='100'>
+        <img src=school_logo.png' width='100'>
         <p>Created by Mr Übach in collaboration with ChatGPT</p>
     </div>
     """,
